@@ -17,7 +17,7 @@
   <depend>builtin_interfaces</depend>
   <depend>cv_bridge</depend>
   <depend>image_transport</depend>
-  <depend>librealsense2</depend>
+  <depend version_eq="2.49.0-0~realsense0.5307">librealsense2</depend>
   <depend>rclcpp</depend>
   <depend>rclcpp_components</depend>
   <depend>realsense2_camera_msgs</depend>
